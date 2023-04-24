@@ -1,8 +1,8 @@
 FROM node:latest
 
-MAINTAINER Abhishek Modi 
+MAINTAINER Arunima Das
 
-RUN echo "Tryin to build my first application"
+RUN echo "Trying to build my first application"
 
 COPY . /var/www
 
